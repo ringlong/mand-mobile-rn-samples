@@ -11,16 +11,11 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.4",
+    "react-native": "0.59.10",
     "crypto-js": "^3.1.9-1",
-    "mand-mobile-rn": "^0.1.0-beta.1",
+    "mand-mobile-rn": "^1.0.0",
     "react-native-gesture-handler": "^1.0.16",
     "react-navigation": "^3.3.2",
-    "react-navigation-redux-helpers": "^3.0.0",
-    "react-redux": "^6.0.1",
-    "redux": "^4.0.1",
-    "redux-thunk": "^2.3.0",
-    "redux-watch": "^1.1.1",
     "rmc-tabs": "^1.2.29",
     "tslib": "^1.9.3"
   },
